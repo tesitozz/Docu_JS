@@ -1,0 +1,13 @@
+
+const boolean1 = true;
+
+const boolean2 = false;
+
+//Devuelve true si los operadores  son iguales y del mismo tipo
+console.log(boolean1 === boolean2);
+
+console.log(boolean1 === true);
+
+console.log(boolean1 === "true");
+
+
