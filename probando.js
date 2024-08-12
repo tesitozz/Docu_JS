@@ -22,7 +22,7 @@ function multiplacacion(a, b) {
     return a * b;
 
 }
-
+//Almacenamos el retorno a la variable resultado
 const resultado = multiplacacion(10, 20);
 
 console.log(resultado);
