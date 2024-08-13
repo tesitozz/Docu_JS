@@ -22,14 +22,15 @@ function multiplacacion(a, b) {
     return a * b;
 
 }
-
+//Almacenamos el retorno a la variable resultado
 const resultado = multiplacacion(10, 20);
 
 console.log(resultado);
 
 
-function desconocidos(nombre = "", apellido = "") {
 
+function desconocidos(nombre = "", apellido = "") {
+// " Desconocido " , "Desconocido " 
     console.log(`El nombre del Usuario es ${nombre} y su apellido es ${apellido}`)
 
 }
