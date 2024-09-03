@@ -208,7 +208,6 @@ document.addEventListener('DOMContentLoaded', function () {
     };
 
     //Resetear Formulario
-
     function  resetFormulario(){
         //Reiniciar el Objeto
         email.email = '';
